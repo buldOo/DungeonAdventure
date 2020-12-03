@@ -1,4 +1,6 @@
 package com.company.Characters.Monsters;
 
-public class Monster {
+import com.company.Room;
+
+public class Monster extends Room {
 }
