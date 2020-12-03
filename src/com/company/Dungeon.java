@@ -11,6 +11,7 @@ public class Dungeon {
         System.out.println("|Welcome to the Dungeon Adventure!|");
         System.out.println("|---------------------------------|");
         while(true){
+
             System.out.println("Type \"next\" to continue");
             System.out.println(" ");
             String scan = scanner.nextLine();
